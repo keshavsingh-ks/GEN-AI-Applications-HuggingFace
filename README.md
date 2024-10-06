@@ -70,15 +70,13 @@ Run the Flask server:
 test with your prompts
 
 
-License
-
-This project is licensed under the MIT License. Feel free to use, modify, and distribute this project for personal or commercial use.
-
 Contributions
 
 Contributions are welcome! If you have any ideas, improvements, or bug fixes, feel free to fork the repository and create a pull request. Let’s make generative AI accessible and powerful together!
 
 Contact
+# keshavc192@gmail.com
+
 
 For any questions or feedback, feel free to reach out or open an issue in the repository.
 

@@ -2,7 +2,7 @@ import logging
 import os
 from flask import Flask, render_template, request, jsonify
 from flask_cors import CORS
-import worker  # Import the worker module
+import worker  
 
 
 app = Flask(__name__)
@@ -18,7 +18,7 @@ def process_message_route():
     print('user_message', user_message)
 
     bot_response = worker.process_prompt(user_message)  
-    # Return the bot's response as JSON
+
     return jsonify({
         "botResponse": bot_response
     }), 200

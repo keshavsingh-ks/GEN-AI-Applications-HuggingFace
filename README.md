@@ -1,6 +1,6 @@
 # GEN AI-Applications-HuggingFace
-![Feature engineering for better predictions](IC.png)
-![Feature engineering for better predictions](run.jpg)
+![Image Caption generator](IC.png)
+![ChatBot](run.png)
 ## Generative AI Project
 
 This repository documents my journey through building various generative AI applications, starting from image captioning with BLIP to building a sophisticated chatbot using LLaMA-7B with LangChain and RAG (Retrieval-Augmented Generation). This README file will guide you through understanding the key elements of the project, how to run it, and what you can expect from it.
